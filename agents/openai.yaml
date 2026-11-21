@@ -1,0 +1,4 @@
+interface:
+  display_name: "人物四宫格"
+  short_description: "保留原图背景生成人物四宫格，含正侧背视角，第三格默认模糊脸部"
+  default_prompt: "使用 $create-character-four-grid，把我提供的全身照做成人物四宫格，保留原图背景，第三格脸部模糊。"
